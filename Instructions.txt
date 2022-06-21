@@ -1,0 +1,5 @@
+Intégrer la maquette en HTML + CSS.
+
+C'est tout (et c'est déjà pas mal).
+
+Courage !
